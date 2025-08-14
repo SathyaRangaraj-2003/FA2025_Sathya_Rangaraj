@@ -1,0 +1,47 @@
+[
+    {
+        "station_id": 1001,
+        "location": {
+            "latitude": 48.116274,
+            "longitude": 11.563626
+        },
+        "status": "active",
+        "deployment_year": 2024
+    },
+    {
+        "station_id": 1002,
+        "location": {
+            "latitude": 48.168974,
+            "longitude": 11.514108
+        },
+        "status": "active",
+        "deployment_year": 2020
+    },
+    {
+        "station_id": 1003,
+        "location": {
+            "latitude": 48.106229,
+            "longitude": 11.530131
+        },
+        "status": "active",
+        "deployment_year": 2020
+    },
+    {
+        "station_id": 1004,
+        "location": {
+            "latitude": 48.168403,
+            "longitude": 11.573236
+        },
+        "status": "active",
+        "deployment_year": 2021
+    },
+    {
+        "station_id": 1005,
+        "location": {
+            "latitude": 48.100052,
+            "longitude": 11.571568
+        },
+        "status": "active",
+        "deployment_year": 2018
+    }
+]
